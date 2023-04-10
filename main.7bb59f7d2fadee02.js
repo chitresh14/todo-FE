@@ -19,7 +19,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [{
-  path: '',
+  path: '/',
   component: _todo_list_todo_list_component__WEBPACK_IMPORTED_MODULE_0__.TodoListComponent
 }];
 class AppRoutingModule {}
